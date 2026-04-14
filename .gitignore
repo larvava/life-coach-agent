@@ -1,0 +1,10 @@
+.env
+.python-version
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+.idea/
+.DS_Store
